@@ -1,0 +1,15 @@
+C:\Users\ellio\source\repos\lambda\lambda\bin\Debug\net6.0\lambda.exe
+C:\Users\ellio\source\repos\lambda\lambda\bin\Debug\net6.0\lambda.deps.json
+C:\Users\ellio\source\repos\lambda\lambda\bin\Debug\net6.0\lambda.runtimeconfig.json
+C:\Users\ellio\source\repos\lambda\lambda\bin\Debug\net6.0\lambda.dll
+C:\Users\ellio\source\repos\lambda\lambda\bin\Debug\net6.0\lambda.pdb
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\lambda.csproj.AssemblyReference.cache
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\lambda.AssemblyInfoInputs.cache
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\lambda.AssemblyInfo.cs
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\lambda.csproj.CoreCompileInputs.cache
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\lambda.dll
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\refint\lambda.dll
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\lambda.pdb
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\lambda.genruntimeconfig.cache
+C:\Users\ellio\source\repos\lambda\lambda\obj\Debug\net6.0\ref\lambda.dll
